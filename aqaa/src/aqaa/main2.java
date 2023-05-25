@@ -5,6 +5,9 @@ public class main2 {
 		System.out.println("bsdgfguf");
 		System.out.println("bsdgfguf");
 		System.out.println("bsdgfguf");
+		System.out.println("bsdgfguf");
+		System.out.println("bsdgfguf");
+		System.out.println("bsdgfguf");
 	}
 
 }
